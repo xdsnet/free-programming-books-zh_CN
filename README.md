@@ -509,6 +509,7 @@
     * [Meteor 中文文档](http://docs.meteorhub.org/#/basic/)
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
+* [lodash文档](http://www.css88.com/doc/lodash/)
 
 ### LaTeX
 
